@@ -6,3 +6,6 @@ A simple TicTacToe game implementation in Java.
 - Console-based gameplay
 - Two-player support
 - Win detection
+
+## Author
+- Student Developer
