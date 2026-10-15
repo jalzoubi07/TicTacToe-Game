@@ -9,3 +9,6 @@ A simple TicTacToe game implementation in Java.
 
 ## Author
 - Student Developer
+
+## Status
+Core game logic in progress.
